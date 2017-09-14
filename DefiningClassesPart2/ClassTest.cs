@@ -8,5 +8,6 @@ namespace DefiningClassesPart2
 {
     class ClassTest
     {
+
     }
 }
