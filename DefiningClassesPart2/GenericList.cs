@@ -12,6 +12,8 @@ namespace DefiningClassesPart2
             array = new T[4];
         }
 
+
+
         public void Add(T element)
         {
             for(int i = 0; i < array.Length; i++)
