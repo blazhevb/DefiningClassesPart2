@@ -13,7 +13,6 @@ namespace DefiningClassesPart2
         }
 
 
-
         public void Add(T element)
         {
             for(int i = 0; i < array.Length; i++)
