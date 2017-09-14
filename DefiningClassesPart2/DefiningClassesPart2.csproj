@@ -74,6 +74,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClassTest.cs" />
     <Compile Include="DistanceCalculator.cs" />
     <Compile Include="GenericList.cs" />
     <Compile Include="GenericListTemp.cs" />
